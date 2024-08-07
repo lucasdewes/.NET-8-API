@@ -496,5 +496,8 @@ $RECYCLE.BIN/
 bin/debug/
 bin/Debug/
 
+# Ignore obj\debug directories
+obj/Debug/
+
 # Ignore v\17 directories
 v/17/
