@@ -31,3 +31,4 @@ C:\Users\Dewes\Desktop\Projetos\PrimeiraAPI\obj\Debug\net8.0\refint\PrimeiraAPI.
 C:\Users\Dewes\Desktop\Projetos\PrimeiraAPI\obj\Debug\net8.0\PrimeiraAPI.pdb
 C:\Users\Dewes\Desktop\Projetos\PrimeiraAPI\obj\Debug\net8.0\PrimeiraAPI.genruntimeconfig.cache
 C:\Users\Dewes\Desktop\Projetos\PrimeiraAPI\obj\Debug\net8.0\ref\PrimeiraAPI.dll
+C:\Users\Dewes\Desktop\Projetos\PrimeiraAPI\obj\Debug\net8.0\PrimeiraAPI.sourcelink.json
