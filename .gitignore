@@ -491,3 +491,10 @@ $RECYCLE.BIN/
 /playwright/.auth/
 /user.json
 .azure
+
+# Ignore bin\debug directories
+bin/debug/
+bin/Debug/
+
+# Ignore v\17 directories
+v/17/
